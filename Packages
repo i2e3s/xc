@@ -1,0 +1,17 @@
+Package: com.cokepokes.appstoreplusplus
+Name: AppStore++
+Version: 0.9.7
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-12.2
+Section: Tweaks
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Replaces:
+Priority: optional
+Architecture: iphoneos-arm
+Author: CokePokes
+dev:
+Homepage:
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: CokePokes
+Icon:
+
